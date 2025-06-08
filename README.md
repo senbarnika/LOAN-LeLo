@@ -50,12 +50,12 @@ _Note: The Random Forest Classifier achieved the highest accuracy on the testing
 
 **Conclusion — **Why LOAN LeLo?****
 
-I’ve named this project (Loan Approval & Eligibility Prediction)-> “LOAN LeLo” to reflect its user-friendly and real-world applicability — a smart, data-driven engine that simplifies credit decisions. Unlike typical loan approval or prediction systems, LOAN LeLo is built not just to classify but to intelligently evaluate a user’s credit profile using both traditional Machine Learning algorithms and ensemble techniques like Bagging and Boosting, enhancing robustness and accuracy.
+I’ve named this project (Loan Approval & Eligibility Prediction)-> “LOAN LeLo” to reflect its user-friendly and real-world applicability — a smart, data-driven engine that simplifies credit decisions. Unlike typical loan approval or prediction systems, LOAN LeLo is built not just to classify but to intelligently evaluate a user’s credit profile using traditional Machine Learning algorithms and enhance robustness and accuracy.
 
 How LOAN LeLo Works? :</br>
 
 Data Ingestion: Cleans and preprocesses loan applicant data.</br>
-Model Pipeline: Applies Logistic Regression, Decision Trees, Random Forests, and ensemble methods (like Bagging & Boosting) for comparative insights.</br>
+Model Pipeline: Applies Logistic Regression, Decision Trees, and Random Forests for comparative insights.</br>
 Prediction Engine: Accurately predicts both loan eligibility and approval probability.</br>
 Visualization: Graphs and heatmaps help explain model outputs, making the system transparent and trustworthy.</br>
 
