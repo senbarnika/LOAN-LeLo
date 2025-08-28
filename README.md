@@ -32,7 +32,7 @@ _Pie Chart_: To visualize the distribution of loan approvals in the dataset.</br
 
 <br>
 
-<img width="2048" height="2048" alt="Gemini_Generated_Image_8yqk4h8yqk4h8yqk" src="https://github.com/user-attachments/assets/03443e21-19e2-4c3b-aa97-a3632d947fe5" />
+<img width="2048" height="2048" alt="Gemini_Generated_Image_8yqk4h8yqk4h8yqk" src="https://github.com/user-attachments/assets/03443e21-19e2-4c3b-aa97-a3632d947fe5" /><br>
 
 
 
