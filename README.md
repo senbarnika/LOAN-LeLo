@@ -10,7 +10,7 @@ _Matplotlib_: For data visualization, such as bar plots, pie charts, and heatmap
 _Seaborn_: For statistical data visualization, such as correlation heatmaps and pair plots.</br>
 _Scikit-learn_: For machine learning models, preprocessing, and evaluation.</br>
 _Imbalanced-learn_: For handling imbalanced datasets (RandomOverSampler).</br>
-_LabelEncoder_: For converting categorical data to numerical data.</br
+_LabelEncoder_: For converting categorical data to numerical data.</br>
 
 **Visualizations**
 
