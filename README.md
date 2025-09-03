@@ -1,6 +1,6 @@
 🎯 **LOAN LeLo: A Predictive Analytics Framework for Loan Eligibility**
 
-This project, LOAN LeLo, presents an advanced machine learning framework engineered to automate and optimize the loan approval process. By leveraging a comprehensive suite of data science and machine learning techniques, this solution empowers financial institutions to make swift, data-driven decisions, thereby enhancing operational efficiency and mitigating credit risk. The framework's predictive capabilities are built upon a meticulous analysis of key applicant features, including financial metrics, demographic data, and credit history.</br>
+This project, LOAN LeLo, presents an advanced machine learning framework engineered to automate and optimize the loan approval process. By leveraging a comprehensive suite of data science and machine learning techniques, this solution empowers financial institutions to make swift, data-driven decisions, thereby enhancing operational efficiency and mitigating credit risk. The framework's predictive capabilities are built upon a meticulous analysis of key applicant features, including financial metrics, demographic data, and credit history. </br>
 
 **Libraries Used**
 
